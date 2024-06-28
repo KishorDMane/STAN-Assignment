@@ -64,10 +64,6 @@ The project includes two main components:
 
 Contributions are welcome! Fork the repository and submit a pull request with your enhancements.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ---
 
 Feel free to customize this README file further based on your specific project details, additional features, or any specific instructions you want to include for users or contributors.
