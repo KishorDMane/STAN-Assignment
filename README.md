@@ -1,4 +1,4 @@
-Certainly! Here's a basic template for a README file tailored to your project:
+Sure! Here’s the edited README file with the addition of an explanation video link:
 
 ---
 
@@ -50,6 +50,10 @@ The project includes two main components:
    node index.js
    ```
 
+## Explanation Video
+
+For a detailed explanation, watch the [explanation video](https://drive.google.com/file/d/12tT9iO23H8Zxh0fZrnvqCqQgvDh78UQl/view?usp=sharing).
+
 ## Structure
 
 - `index.js`: Main entry point of the application.
@@ -63,7 +67,3 @@ The project includes two main components:
 ## Contributing
 
 Contributions are welcome! Fork the repository and submit a pull request with your enhancements.
-
----
-
-Feel free to customize this README file further based on your specific project details, additional features, or any specific instructions you want to include for users or contributors.
